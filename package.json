@@ -1,0 +1,7 @@
+{
+  "name": "mend",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Apply AI-written edits in four formats: unified diff, SEARCH/REPLACE, V4A and JSON."
+}
